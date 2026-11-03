@@ -25,8 +25,6 @@ from first assessment to production-grade protection.
 
 ## Contact
 
-- Email: contact@alephbeth.ai
-- Site: www.alephbeth.ai
-- X: @lephBethAI
-- Bluesky: @alephbethai.bsky.social
-- Mastodon: @alephbeth@mastodon.social
+- Email: [contact@alephbeth.ai](mailto:contact@alephbeth.ai)
+- Site: [www.alephbeth.ai](https://www.alephbeth.ai)
+- [![Gravatar](https://gravatar.com/magnificentscrumptiously2a60ce97bd)](https://gravatar.com/magnificentscrumptiously2a60ce97bd)
