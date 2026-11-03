@@ -1,4 +1,4 @@
-# AlephBeth-AI
+# Aleph Beth | אב · أب AI Security
 
 **Security for AI agents and large language models.**
 
